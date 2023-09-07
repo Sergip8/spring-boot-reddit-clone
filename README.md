@@ -2,6 +2,9 @@
 
 this is a Reddit clone using spring boot, jpa with mongodb, and sprint security
 
+### Frond end 
+https://github.com/Sergip8/angular-reddit-clone
+
 ## Screenshots
 
 * Home page
